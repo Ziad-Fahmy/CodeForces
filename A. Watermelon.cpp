@@ -8,11 +8,11 @@ int main()
     cin  w;
     if (w % 2 == 0 && w  2)
     {
-        cout  YES  endl;
+        cout<<"YES"<<endl;
     }
     else
     {
-        cout  NO  endl;
+        cout<<"NO"<<  endl;
     }
     return 0;
 }
